@@ -140,7 +140,7 @@ for (let i = 0; i < solution2.length; i++) {
 // Resultat i string-format
 const solution = newSolution
 // Antal tomme felter vi ønsker
-const emptyCells = 25
+const emptyCells = 35
 
 // newSolution er array med strings, fx:
 // ["387491625", "241568379", "569327418", ...]
